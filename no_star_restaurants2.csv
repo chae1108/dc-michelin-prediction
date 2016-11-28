@@ -1,0 +1,143 @@
+categories,city,id,name,price,rating,review_count,zip_code
+thai,Chicago,herb-chicago,Herb,$$$,4.5,123,60640
+tradamerican,Chicago,untitled-supper-club-chicago,Untitled Supper Club,$$$,3.5,715,60654
+newamerican,Chicago,gilt-bar-chicago,Gilt Bar,$$$,4.0,1290,60654
+ramen,Chicago,slurping-turtle-chicago,Slurping Turtle,$$,3.5,1163,60654
+mexican,Chicago,frontera-grill-chicago,Frontera Grill,$$$,4.0,1810,60654
+czech,Chicago,bohemian-house-chicago,Bohemian House,$$$,4.5,535,60654
+french,Chicago,avec-chicago,Avec,$$$,4.5,1729,60661
+newamerican,Chicago,beatrix-river-north-chicago,Beatrix River North,$$,4.0,1069,60654
+seafood,Chicago,gt-fish-and-oyster-chicago,GT Fish & Oyster,$$$,4.0,1213,60654
+tapasmallplates,Chicago,the-purple-pig-chicago,The Purple Pig,$$,4.0,4661,60611
+newamerican,Chicago,au-cheval-chicago,Au Cheval,$$,4.5,3364,60607
+newamerican,Chicago,girl-and-the-goat-chicago,Girl & the Goat,$$$,4.5,5712,60607
+sushi,Chicago,sushi-dokku-chicago,Sushi Dokku,$$,4.0,230,60607
+bars,Chicago,maudes-liquor-bar-chicago,Maude's Liquor Bar,$$$,4.0,820,60607
+indpak,Chicago,jaipur-chicago,Jaipur,$$,3.5,436,60607
+newamerican,Chicago,the-publican-chicago,The Publican,$$$,4.0,2542,60607
+tradamerican,Chicago,the-dawson-chicago,The Dawson,$$,4.0,559,60654
+newamerican,Chicago,two-chicago,TWO,$$$,4.5,617,60642
+asianfusion,Chicago,bellyq-chicago-2,bellyQ,$$$,4.0,622,60607
+thai,New York,khe-yo-new-york,Khe-Yo,$$$,4.0,414,10013
+dimsum,New York,dim-sum-go-go-new-york,Dim Sum Go Go,$$,3.5,597,10038
+asianfusion,New York,nyonya-new-york,Nyonya,$$,4.0,1472,10013
+seafood,New York,eds-lobster-bar-new-york-3,Ed's Lobster Bar,$$$,4.0,755,10012
+italian,New York,rubirosa-new-york-2,Rubirosa,$$,4.0,1047,10012
+italian,New York,ciccio-new-york-2,Ciccio,$$,4.0,173,10012
+newamerican,New York,pearl-and-ash-new-york,Pearl & Ash,$$$,3.5,254,10012
+breakfast_brunch,New York,russ-and-daughters-cafe-new-york-5,Russ & Daughters Cafe,$$,4.0,421,10002
+mexican,Brooklyn,gran-electrica-brooklyn,Gran Electrica,$$,3.5,322,11201
+italian,New York,lupa-new-york,Lupa,$$$,4.0,1205,10012
+gastropubs,New York,dbgb-kitchen-and-bar-new-york,DBGB Kitchen and Bar,$$$,3.5,1306,10003
+italian,New York,bar-primi-new-york-3,Bar Primi,$$,3.5,299,10003
+newamerican,New York,prune-new-york,Prune,$$$,4.0,892,10003
+italian,New York,il-buco-alimentari-and-vineria-new-york-2,il Buco Alimentari & Vineria,$$$,3.5,406,10012
+mexican,New York,hecho-en-dumbo-new-york,Hecho en Dumbo,$$,3.5,360,10012
+italian,New York,aroma-kitchen-and-winebar-new-york,Aroma Kitchen & Winebar,$$$,4.0,278,10003
+italian,New York,baker-and-co-new-york,Baker & Co,$$,4.0,384,10014
+newamerican,New York,thelma-on-clinton-new-york,Thelma On Clinton,$$,4.0,109,10002
+italian,New York,supper-new-york,Supper,$$,4.0,994,10009
+newamerican,San Francisco,rich-table-san-francisco,Rich Table,$$$,4.0,750,94102
+asianfusion,San Francisco,1601-bar-and-kitchen-san-francisco,1601 Bar & Kitchen,$$$,4.0,178,94103
+indpak,San Francisco,dosa-on-fillmore-san-francisco-3,DOSA on Fillmore,$$$,4.0,2322,94115
+chinese,San Francisco,m-y-china-san-francisco-2,M.Y. China,$$,3.5,1026,94103
+tapasmallplates,San Francisco,izakaya-rintaro-san-francisco,Izakaya Rintaro,$$$,4.0,221,94103
+pizza,San Francisco,zero-zero-san-francisco,Zero Zero,$$,4.0,2694,94107
+izakaya,San Francisco,yuzuki-japanese-eatery-san-francisco,Yuzuki Japanese Eatery,$$$,4.0,322,94110
+newamerican,San Francisco,bar-tartine-san-francisco,Bar Tartine,$$$,3.5,1472,94110
+newamerican,San Francisco,mason-pacific-san-francisco,Mason Pacific,$$$,4.0,302,94133
+french,San Francisco,fringale-san-francisco,Fringale,$$$,4.0,995,94107
+newamerican,San Francisco,starbelly-san-francisco,Starbelly,$$,3.5,1435,94114
+italian,San Francisco,delfina-san-francisco,Delfina,$$$,4.0,1833,94110
+chinese,San Francisco,z-and-y-restaurant-san-francisco-3,Z & Y Restaurant,$$,3.5,1014,94133
+newamerican,San Francisco,trestle-san-francisco,Trestle,$$$,4.5,378,94133
+thai,San Francisco,farmhouse-kitchen-thai-cuisine-san-francisco,Farmhouse Kitchen Thai Cuisine,$$,4.0,396,94110
+italian,San Francisco,cotogna-san-francisco,Cotogna,$$$,4.0,1032,94133
+seafood,San Francisco,anchor-oyster-bar-san-francisco,Anchor Oyster Bar,$$$,4.5,1166,94114
+greek,San Francisco,kokkari-estiatorio-san-francisco,Kokkari Estiatorio,$$$,4.5,3708,94111
+french,San Francisco,bistro-aix-san-francisco,Bistro Aix,$$,4.0,557,94123
+filipino,Washington,bad-saint-washington,Bad Saint,$$,4.5,195,20010
+bars,Washington,bidwell-washington,Bidwell,$$,3.5,164,20002
+tapas,Washington,boqueria-washington,Boqueria,$$$,4.0,682,20036
+ethiopian,Washington,chercher-ethiopian-restaurant-and-mart-washington,Chercher Ethiopian Restaurant & Mart,$$,4.5,89,20001
+peruvian,Washington,china-chilcano-washington,China Chilcano,$$$,3.5,578,20004
+ethiopian,Washington,das-ethiopian-washington,Das Ethiopian,$$,4.0,211,20007
+vietnamese,Washington,doi-moi-washington,Doi Moi,$$,3.5,389,20009
+spanish,Washington,jaleo-dc-washington,Jaleo DC,$$$,3.5,1481,20004
+french,Washington,kyirisan-washington,Kyirisan,$$$,4.0,88,20001
+french,Washington,lapis-washington,Lapis,$$,4.0,127,20009
+cafes,Washington,maketto-washington-2,Maketto,$$,4.0,396,20002
+mediterranean,Washington,ottoman-taverna-washington,Ottoman Taverna,$$$,4.0,98,20001
+mexican,Washington,oyamel-cocina-mexicana-washington-2,Oyamel Cocina Mexicana,$$$,3.5,1926,20004
+seafood,Washington,pearl-dive-oyster-palace-washington,Pearl Dive Oyster Palace,$$,4.0,615,20009
+italian,Washington,the-red-hen-washington,The Red Hen,$$$,4.0,449,20002
+coffee,Washington,the-royal-washington-2,The Royal,$$,4.0,82,20001
+laotian,Washington,thip-khao-washington,Thip Khao,$$,4.5,461,20010
+pizza,Washington,2-amys-neapolitan-pizzeria-washington,2 Amys Neapolitan Pizzeria,$$,4.0,1380,20016
+greek,Washington,zaytinya-washington,Zaytinya,$$$,4.0,3313,20001
+newamerican,Chicago,pump-room-chicago,Pump Room,$$$,4.0,653,60610
+mexican,Chicago,decolores-galeria-y-sabores-chicago,Decolores Galeria Y Sabores,$$,3.5,254,60608
+vegetarian,Chicago,green-zebra-chicago,Green Zebra,$$$,4.0,916,60642
+italian,Chicago,balena-chicago,Balena,$$$,4.0,679,60614
+sushi,Chicago,arami-chicago,ARAMI,$$$,4.0,524,60622
+asianfusion,Chicago,mott-st-chicago-2,Mott St,$$,4.0,345,60622
+italian,Chicago,riccardo-trattoria-chicago-2,Riccardo Trattoria,$$$,4.0,284,60614
+southern,Chicago,doves-luncheonette-chicago,Dove's Luncheonette,$$,4.0,370,60622
+cocktailbars,Chicago,the-duck-inn-chicago,The Duck Inn,$$$,4.0,221,60608
+asianfusion,Chicago,kai-zan-chicago,Kai Zan,$$$,4.5,590,60622
+chinese,Chicago,han-202-chicago,Han 202,$$,4.0,243,60616
+newamerican,Chicago,nana-chicago,Nana,$$,4.0,880,60608
+seafood,Chicago,mfk-chicago-2,mfk.,$$$,4.5,127,60614
+spanish,New York,tertulia-new-york,Tertulia,$$$,3.5,363,10014
+italian,New York,porsena-new-york,Porsena,$$,3.5,203,10003
+thai,New York,kiin-thai-eatery-new-york-2,Kiin Thai Eatery,$$,3.5,158,10003
+korean,New York,oiji-new-york,Oiji,$$$,4.5,236,10003
+newamerican,Brooklyn,vinegar-hill-house-brooklyn,Vinegar Hill House,$$$,3.5,528,11201
+ramen,New York,momofuku-noodle-bar-new-york,Momofuku Noodle Bar,$$,3.5,3449,10003
+newamerican,New York,momofuku-ssam-bar-new-york-5,Momofuku Ssam Bar,$$$,4.0,2035,10003
+newamerican,New York,untitled-at-the-whitney-new-york,Untitled at The Whitney,$$$,4.0,153,10014
+italian,New York,crispo-new-york,Crispo,$$$,4.0,747,10011
+cuban,New York,coppelia-new-york,Coppelia,$$,4.0,847,10011
+thai,New York,laut-new-york,Laut,$$,3.5,814,10003
+pizza,Brooklyn,sottocasa-pizzeria-boerum-hill-brooklyn,Sottocasa Pizzeria- Boerum Hill,$$,4.5,431,11201
+latin,New York,abc-cocina-new-york,ABC Cocina,$$$,4.0,589,10003
+spanish,New York,boqueria-new-york,Boqueria,$$$,4.0,905,10011
+newamerican,Brooklyn,marlow-and-sons-brooklyn-2,Marlow & Sons,$$$,4.0,476,11249
+diners,Brooklyn,diner-brooklyn,Diner,$$,4.0,662,11211
+newamerican,Brooklyn,lulu-and-po-brooklyn,Lulu & Po,$$$,4.5,141,11205
+pizza,New York,bread-and-tulips-new-york,Bread & Tulips,$$,4.0,172,10016
+indpak,New York,pippali-new-york,Pippali,$$,4.0,471,10016
+turkish,New York,turkish-kitchen-new-york,Turkish Kitchen,$$,4.0,455,10016
+japanese,New York,momokawa-new-york,Momokawa,$$$,3.5,285,10016
+pizza,Brooklyn,baci-and-abbracci-brooklyn,Baci & Abbracci,$$,4.0,227,11211
+italian,Brooklyn,frankies-457-brooklyn-brooklyn,Frankies 457 - Brooklyn,$$,4.0,616,11231
+newamerican,Brooklyn,the-general-greene-brooklyn-2,The General Greene,$$,3.0,441,11205
+bars,Brooklyn,prime-meats-brooklyn,Prime Meats,$$,3.5,526,11231
+mexican,Brooklyn,xixa-brooklyn,Xixa,$$$,4.5,397,11211
+newamerican,Brooklyn,buttermilk-channel-brooklyn,Buttermilk Channel,$$,4.0,1452,11231
+bars,Brooklyn,rye-brooklyn,Rye,$$$,4.0,542,11211
+newamerican,Brooklyn,the-good-fork-brooklyn,The Good Fork,$$,4.0,336,11231
+dimsum,San Francisco,yank-sing-san-francisco-2,Yank Sing,$$$,3.5,2141,94105
+mexican,San Francisco,mamacita-san-francisco,Mamacita,$$,3.5,1195,94123
+spanish,San Francisco,coqueta-san-francisco,Coqueta,$$$,4.0,1289,94105
+italian,San Francisco,a16-san-francisco-4,A16,$$$,3.5,1780,94123
+italian,San Francisco,sociale-san-francisco,Sociale,$$$,4.0,605,94118
+dimsum,San Francisco,hong-kong-lounge-ii-san-francisco-3,Hong Kong Lounge II,$$,3.5,638,94118
+spanish,San Francisco,contigo-san-francisco-2,Contigo,$$$,4.0,759,94114
+french,San Francisco,chapeau-san-francisco,Chapeau!,$$$,4.5,2422,94118
+szechuan,San Francisco,sichuan-home-san-francisco,Sichuan Home,$$,4.0,314,94118
+japanese,San Francisco,kappou-gomi-san-francisco,Kappou Gomi,$$$,4.0,391,94121
+italian,Sausalito,poggio-sausalito,Poggio,$$$,3.5,787,94965
+sushi,Sausalito,sushi-ran-sausalito,Sushi Ran,$$$,4.0,1264,94965
+french,Sausalito,le-garage-sausalito,Le Garage,$$,4.0,978,94965
+french,Oakland,michel-bistro-oakland-2,Michel Bistro,$$,4.5,347,94610
+vegan,Oakland,millennium-oakland,Millennium,$$$,4.0,246,94618
+newamerican,Berkeley,five-berkeley,FIVE,$$$,3.5,708,94704
+chinese,Berkeley,great-china-berkeley,Great China,$$,4.0,1488,94704
+newamerican,Oakland,wood-tavern-oakland,Wood Tavern,$$$,4.5,1593,94618
+japanese,Berkeley,ippuku-berkeley-2,Ippuku,$$$,4.0,985,94704
+newamerican,Berkeley,gather-berkeley,Gather,$$,4.0,1846,94704
+mexican,Berkeley,comal-berkeley,Comal,$$,3.5,866,94704
+italian,Berkeley,corso-berkeley-4,Corso,$$$,4.0,556,94709
+newamerican,Berkeley,rivoli-restaurant-berkeley,Rivoli Restaurant,$$$,4.0,705,94707
+szechuan,Albany,china-village-albany-3,China Village,$$,4.0,600,94706

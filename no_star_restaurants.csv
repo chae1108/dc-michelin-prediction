@@ -1,0 +1,77 @@
+categories,city,id,name,price,rating,review_count
+"[{u'alias': u'thai', u'title': u'Thai'}]",Chicago,herb-chicago,Herb,$$$,4.5,123
+"[{u'alias': u'tradamerican', u'title': u'American (Traditional)'}, {u'alias': u'lounges', u'title': u'Lounges'}, {u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,untitled-supper-club-chicago,Untitled Supper Club,$$$,3.5,714
+"[{u'alias': u'newamerican', u'title': u'American (New)'}, {u'alias': u'lounges', u'title': u'Lounges'}]",Chicago,gilt-bar-chicago,Gilt Bar,$$$,4.0,1291
+"[{u'alias': u'ramen', u'title': u'Ramen'}, {u'alias': u'bars', u'title': u'Bars'}]",Chicago,slurping-turtle-chicago,Slurping Turtle,$$,3.5,1162
+"[{u'alias': u'mexican', u'title': u'Mexican'}]",Chicago,frontera-grill-chicago,Frontera Grill,$$$,4.0,1809
+"[{u'alias': u'czech', u'title': u'Czech'}, {u'alias': u'german', u'title': u'German'}, {u'alias': u'austrian', u'title': u'Austrian'}]",Chicago,bohemian-house-chicago,Bohemian House,$$$,4.5,535
+"[{u'alias': u'french', u'title': u'French'}, {u'alias': u'basque', u'title': u'Basque'}, {u'alias': u'mediterranean', u'title': u'Mediterranean'}]",Chicago,avec-chicago,Avec,$$$,4.5,1725
+"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,beatrix-river-north-chicago,Beatrix River North,$$,4.0,1068
+"[{u'alias': u'seafood', u'title': u'Seafood'}]",Chicago,gt-fish-and-oyster-chicago,GT Fish & Oyster,$$$,4.0,1214
+"[{u'alias': u'tapasmallplates', u'title': u'Tapas/Small Plates'}, {u'alias': u'mediterranean', u'title': u'Mediterranean'}]",Chicago,the-purple-pig-chicago,The Purple Pig,$$,4.0,4654
+"[{u'alias': u'newamerican', u'title': u'American (New)'}, {u'alias': u'bars', u'title': u'Bars'}, {u'alias': u'diners', u'title': u'Diners'}]",Chicago,au-cheval-chicago,Au Cheval,$$,4.5,3359
+"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,girl-and-the-goat-chicago,Girl & the Goat,$$$,4.5,5708
+"[{u'alias': u'sushi', u'title': u'Sushi Bars'}, {u'alias': u'japanese', u'title': u'Japanese'}]",Chicago,sushi-dokku-chicago,Sushi Dokku,$$,4.0,230
+"[{u'alias': u'bars', u'title': u'Bars'}, {u'alias': u'french', u'title': u'French'}]",Chicago,maudes-liquor-bar-chicago,Maude's Liquor Bar,$$$,4.0,818
+"[{u'alias': u'indpak', u'title': u'Indian'}]",Chicago,jaipur-chicago,Jaipur,$$,3.5,436
+"[{u'alias': u'newamerican', u'title': u'American (New)'}, {u'alias': u'breakfast_brunch', u'title': u'Breakfast & Brunch'}]",Chicago,the-publican-chicago,The Publican,$$$,4.0,2540
+"[{u'alias': u'tradamerican', u'title': u'American (Traditional)'}]",Chicago,the-dawson-chicago,The Dawson,$$,4.0,559
+"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,two-chicago,TWO,$$$,4.5,618
+"[{u'alias': u'asianfusion', u'title': u'Asian Fusion'}, {u'alias': u'bbq', u'title': u'Barbeque'}, {u'alias': u'korean', u'title': u'Korean'}]",Chicago,bellyq-chicago-2,bellyQ,$$$,4.0,622
+"[{u'alias': u'thai', u'title': u'Thai'}, {u'alias': u'laotian', u'title': u'Laotian'}, {u'alias': u'vietnamese', u'title': u'Vietnamese'}]",New York,khe-yo-new-york,Khe-Yo,$$$,4.0,413
+"[{u'alias': u'dimsum', u'title': u'Dim Sum'}]",New York,dim-sum-go-go-new-york,Dim Sum Go Go,$$,3.5,597
+"[{u'alias': u'asianfusion', u'title': u'Asian Fusion'}, {u'alias': u'malaysian', u'title': u'Malaysian'}, {u'alias': u'chinese', u'title': u'Chinese'}]",New York,nyonya-new-york,Nyonya,$$,4.0,1472
+"[{u'alias': u'seafood', u'title': u'Seafood'}, {u'alias': u'bars', u'title': u'Bars'}, {u'alias': u'soup', u'title': u'Soup'}]",New York,eds-lobster-bar-new-york-3,Ed's Lobster Bar,$$$,4.0,755
+"[{u'alias': u'italian', u'title': u'Italian'}, {u'alias': u'pizza', u'title': u'Pizza'}]",New York,rubirosa-new-york-2,Rubirosa,$$,4.0,1047
+"[{u'alias': u'italian', u'title': u'Italian'}, {u'alias': u'bars', u'title': u'Bars'}]",New York,ciccio-new-york-2,Ciccio,$$,4.0,172
+"[{u'alias': u'newamerican', u'title': u'American (New)'}]",New York,pearl-and-ash-new-york,Pearl & Ash,$$$,3.5,254
+"[{u'alias': u'breakfast_brunch', u'title': u'Breakfast & Brunch'}, {u'alias': u'seafood', u'title': u'Seafood'}]",New York,russ-and-daughters-cafe-new-york-5,Russ & Daughters Cafe,$$,4.0,421
+"[{u'alias': u'mexican', u'title': u'Mexican'}, {u'alias': u'breakfast_brunch', u'title': u'Breakfast & Brunch'}]",Brooklyn,gran-electrica-brooklyn,Gran Electrica,$$,3.5,322
+"[{u'alias': u'italian', u'title': u'Italian'}, {u'alias': u'newamerican', u'title': u'American (New)'}]",New York,lupa-new-york,Lupa,$$$,4.0,1203
+"[{u'alias': u'gastropubs', u'title': u'Gastropubs'}]",New York,dbgb-kitchen-and-bar-new-york,DBGB Kitchen and Bar,$$$,3.5,1306
+"[{u'alias': u'italian', u'title': u'Italian'}]",New York,bar-primi-new-york-3,Bar Primi,$$,3.5,298
+"[{u'alias': u'newamerican', u'title': u'American (New)'}, {u'alias': u'breakfast_brunch', u'title': u'Breakfast & Brunch'}]",New York,prune-new-york,Prune,$$$,3.5,891
+"[{u'alias': u'italian', u'title': u'Italian'}]",New York,il-buco-alimentari-and-vineria-new-york-2,il Buco Alimentari & Vineria,$$$,3.5,406
+"[{u'alias': u'mexican', u'title': u'Mexican'}, {u'alias': u'tapasmallplates', u'title': u'Tapas/Small Plates'}]",New York,hecho-en-dumbo-new-york,Hecho en Dumbo,$$,3.5,360
+"[{u'alias': u'italian', u'title': u'Italian'}, {u'alias': u'wine_bars', u'title': u'Wine Bars'}]",New York,aroma-kitchen-and-winebar-new-york,Aroma Kitchen & Winebar,$$$,4.0,278
+"[{u'alias': u'italian', u'title': u'Italian'}, {u'alias': u'breakfast_brunch', u'title': u'Breakfast & Brunch'}, {u'alias': u'wine_bars', u'title': u'Wine Bars'}]",New York,baker-and-co-new-york,Baker & Co,$$,4.0,384
+"[{u'alias': u'newamerican', u'title': u'American (New)'}]",New York,thelma-on-clinton-new-york,Thelma On Clinton,$$,4.0,108
+"[{u'alias': u'italian', u'title': u'Italian'}]",New York,supper-new-york,Supper,$$,4.0,993
+"[{u'alias': u'newamerican', u'title': u'American (New)'}]",San Francisco,rich-table-san-francisco,Rich Table,$$$,4.0,749
+"[{u'alias': u'asianfusion', u'title': u'Asian Fusion'}, {u'alias': u'wine_bars', u'title': u'Wine Bars'}, {u'alias': u'srilankan', u'title': u'Sri Lankan'}]",San Francisco,1601-bar-and-kitchen-san-francisco,1601 Bar & Kitchen,$$$,4.0,178
+"[{u'alias': u'indpak', u'title': u'Indian'}]",San Francisco,dosa-on-fillmore-san-francisco-3,DOSA on Fillmore,$$$,4.0,2320
+"[{u'alias': u'chinese', u'title': u'Chinese'}]",San Francisco,m-y-china-san-francisco-2,M.Y. China,$$,3.5,1026
+"[{u'alias': u'tapasmallplates', u'title': u'Tapas/Small Plates'}, {u'alias': u'izakaya', u'title': u'Izakaya'}]",San Francisco,izakaya-rintaro-san-francisco,Izakaya Rintaro,$$$,4.0,220
+"[{u'alias': u'pizza', u'title': u'Pizza'}, {u'alias': u'italian', u'title': u'Italian'}, {u'alias': u'bars', u'title': u'Bars'}]",San Francisco,zero-zero-san-francisco,Zero Zero,$$,4.0,2694
+"[{u'alias': u'izakaya', u'title': u'Izakaya'}]",San Francisco,yuzuki-japanese-eatery-san-francisco,Yuzuki Japanese Eatery,$$$,4.0,322
+"[{u'alias': u'newamerican', u'title': u'American (New)'}]",San Francisco,bar-tartine-san-francisco,Bar Tartine,$$$,3.5,1472
+"[{u'alias': u'newamerican', u'title': u'American (New)'}, {u'alias': u'desserts', u'title': u'Desserts'}, {u'alias': u'seafood', u'title': u'Seafood'}]",San Francisco,mason-pacific-san-francisco,Mason Pacific,$$$,4.0,302
+"[{u'alias': u'french', u'title': u'French'}, {u'alias': u'basque', u'title': u'Basque'}]",San Francisco,fringale-san-francisco,Fringale,$$$,4.0,994
+"[{u'alias': u'newamerican', u'title': u'American (New)'}, {u'alias': u'comfortfood', u'title': u'Comfort Food'}, {u'alias': u'breakfast_brunch', u'title': u'Breakfast & Brunch'}]",San Francisco,starbelly-san-francisco,Starbelly,$$,3.5,1435
+"[{u'alias': u'italian', u'title': u'Italian'}]",San Francisco,delfina-san-francisco,Delfina,$$$,4.0,1832
+"[{u'alias': u'chinese', u'title': u'Chinese'}]",San Francisco,z-and-y-restaurant-san-francisco-3,Z & Y Restaurant,$$,3.5,1013
+"[{u'alias': u'newamerican', u'title': u'American (New)'}]",San Francisco,trestle-san-francisco,Trestle,$$$,4.5,378
+"[{u'alias': u'thai', u'title': u'Thai'}, {u'alias': u'comfortfood', u'title': u'Comfort Food'}]",San Francisco,farmhouse-kitchen-thai-cuisine-san-francisco,Farmhouse Kitchen Thai Cuisine,$$,4.0,395
+"[{u'alias': u'italian', u'title': u'Italian'}]",San Francisco,cotogna-san-francisco,Cotogna,$$$,4.0,1032
+"[{u'alias': u'seafood', u'title': u'Seafood'}]",San Francisco,anchor-oyster-bar-san-francisco,Anchor Oyster Bar,$$$,4.5,1166
+"[{u'alias': u'greek', u'title': u'Greek'}, {u'alias': u'mediterranean', u'title': u'Mediterranean'}]",San Francisco,kokkari-estiatorio-san-francisco,Kokkari Estiatorio,$$$,4.5,3705
+"[{u'alias': u'french', u'title': u'French'}]",San Francisco,bistro-aix-san-francisco,Bistro Aix,$$,4.0,557
+"[{u'alias': u'filipino', u'title': u'Filipino'}]",Washington,bad-saint-washington,Bad Saint,$$,4.5,195
+"[{u'alias': u'bars', u'title': u'Bars'}, {u'alias': u'newamerican', u'title': u'American (New)'}, {u'alias': u'breakfast_brunch', u'title': u'Breakfast & Brunch'}]",Washington,bidwell-washington,Bidwell,$$,3.5,164
+"[{u'alias': u'tapas', u'title': u'Tapas Bars'}, {u'alias': u'spanish', u'title': u'Spanish'}]",Washington,boqueria-washington,Boqueria,$$$,4.0,681
+"[{u'alias': u'ethiopian', u'title': u'Ethiopian'}]",Washington,chercher-ethiopian-restaurant-and-mart-washington,Chercher Ethiopian Restaurant & Mart,$$,4.5,88
+"[{u'alias': u'peruvian', u'title': u'Peruvian'}, {u'alias': u'asianfusion', u'title': u'Asian Fusion'}]",Washington,china-chilcano-washington,China Chilcano,$$$,3.5,578
+"[{u'alias': u'ethiopian', u'title': u'Ethiopian'}, {u'alias': u'vegetarian', u'title': u'Vegetarian'}]",Washington,das-ethiopian-washington,Das Ethiopian,$$,4.0,211
+"[{u'alias': u'vietnamese', u'title': u'Vietnamese'}, {u'alias': u'thai', u'title': u'Thai'}, {u'alias': u'asianfusion', u'title': u'Asian Fusion'}]",Washington,doi-moi-washington,Doi Moi,$$,3.5,389
+"[{u'alias': u'spanish', u'title': u'Spanish'}, {u'alias': u'tapas', u'title': u'Tapas Bars'}]",Washington,jaleo-dc-washington,Jaleo DC,$$$,3.5,1481
+"[{u'alias': u'french', u'title': u'French'}, {u'alias': u'chinese', u'title': u'Chinese'}]",Washington,kyirisan-washington,Kyirisan,$$$,4.0,87
+"[{u'alias': u'french', u'title': u'French'}, {u'alias': u'afghani', u'title': u'Afghan'}, {u'alias': u'cocktailbars', u'title': u'Cocktail Bars'}]",Washington,lapis-washington,Lapis,$$,4.0,127
+"[{u'alias': u'cafes', u'title': u'Cafes'}, {u'alias': u'cambodian', u'title': u'Cambodian'}, {u'alias': u'taiwanese', u'title': u'Taiwanese'}]",Washington,maketto-washington-2,Maketto,$$,4.0,394
+"[{u'alias': u'mediterranean', u'title': u'Mediterranean'}, {u'alias': u'turkish', u'title': u'Turkish'}]",Washington,ottoman-taverna-washington,Ottoman Taverna,$$$,4.0,98
+"[{u'alias': u'mexican', u'title': u'Mexican'}, {u'alias': u'tapas', u'title': u'Tapas Bars'}]",Washington,oyamel-cocina-mexicana-washington-2,Oyamel Cocina Mexicana,$$$,3.5,1924
+"[{u'alias': u'seafood', u'title': u'Seafood'}, {u'alias': u'breakfast_brunch', u'title': u'Breakfast & Brunch'}]",Washington,pearl-dive-oyster-palace-washington,Pearl Dive Oyster Palace,$$,4.0,614
+"[{u'alias': u'italian', u'title': u'Italian'}]",Washington,the-red-hen-washington,The Red Hen,$$$,4.0,449
+"[{u'alias': u'coffee', u'title': u'Coffee & Tea'}, {u'alias': u'latin', u'title': u'Latin American'}, {u'alias': u'cocktailbars', u'title': u'Cocktail Bars'}]",Washington,the-royal-washington-2,The Royal,$$,4.0,82
+"[{u'alias': u'laotian', u'title': u'Laotian'}]",Washington,thip-khao-washington,Thip Khao,$$,4.5,461
+"[{u'alias': u'pizza', u'title': u'Pizza'}, {u'alias': u'italian', u'title': u'Italian'}]",Washington,2-amys-neapolitan-pizzeria-washington,2 Amys Neapolitan Pizzeria,$$,4.0,1379
+"[{u'alias': u'greek', u'title': u'Greek'}, {u'alias': u'turkish', u'title': u'Turkish'}, {u'alias': u'lebanese', u'title': u'Lebanese'}]",Washington,zaytinya-washington,Zaytinya,$$$,4.0,3309

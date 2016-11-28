@@ -1,0 +1,21 @@
+categories,city,id,name,price,rating,review_count
+"[{u'alias': u'newamerican', u'title': u'American (New)'}, {u'alias': u'salad', u'title': u'Salad'}, {u'alias': u'pastashops', u'title': u'Pasta Shops'}]",Washington,roses-luxury-washington,Rose's Luxury,$$$,4.5,1227
+"[{u'alias': u'ethiopian', u'title': u'Ethiopian'}, {u'alias': u'cafes', u'title': u'Cafes'}]",Washington,keren-restaurant-washington,Keren Restaurant,$$,4.5,625
+"[{u'alias': u'greek', u'title': u'Greek'}, {u'alias': u'mediterranean', u'title': u'Mediterranean'}]",Washington,komi-washington,Komi,$$$$,4.5,644
+"[{u'alias': u'bakeries', u'title': u'Bakeries'}, {u'alias': u'sandwiches', u'title': u'Sandwiches'}, {u'alias': u'seafood', u'title': u'Seafood'}]",Washington,neopol-savory-smokery-washington,Neopol Savory Smokery,$$,4.5,122
+"[{u'alias': u'newamerican', u'title': u'American (New)'}, {u'alias': u'cocktailbars', u'title': u'Cocktail Bars'}]",Washington,barmini-by-josé-andrés-washington-4,Barmini By José Andrés,$$$,4.5,203
+"[{u'alias': u'mediterranean', u'title': u'Mediterranean'}, {u'alias': u'bars', u'title': u'Bars'}]",Washington,nido-washington-2,Nido,$$,4.5,133
+"[{u'alias': u'sandwiches', u'title': u'Sandwiches'}]",Washington,bub-and-pops-washington,Bub and Pop's,$$,4.5,515
+"[{u'alias': u'butcher', u'title': u'Butcher'}, {u'alias': u'delis', u'title': u'Delis'}, {u'alias': u'cookingclasses', u'title': u'Cooking Classes'}]",Washington,stachowski-market-and-deli-washington,Stachowski Market & Deli,$$,4.5,304
+"[{u'alias': u'pizza', u'title': u'Pizza'}]",Washington,timber-pizza-company-washington,Timber Pizza Company,$$,4.5,87
+"[{u'alias': u'vegetarian', u'title': u'Vegetarian'}, {u'alias': u'vegan', u'title': u'Vegan'}, {u'alias': u'newamerican', u'title': u'American (New)'}]",Washington,chaia-washington-3,Chaia,$$,4.5,224
+"[{u'alias': u'indpak', u'title': u'Indian'}]",Washington,rasika-washington,Rasika,$$$,4.5,2228
+"[{u'alias': u'tradamerican', u'title': u'American (Traditional)'}, {u'alias': u'seafood', u'title': u'Seafood'}, {u'alias': u'cocktailbars', u'title': u'Cocktail Bars'}]",Washington,pennsylvania-6-dc-washington,Pennsylvania 6 DC,$$$,4.5,180
+"[{u'alias': u'seafood', u'title': u'Seafood'}, {u'alias': u'italian', u'title': u'Italian'}, {u'alias': u'cocktailbars', u'title': u'Cocktail Bars'}]",Washington,fiola-mare-washington,Fiola Mare,$$$,4.5,571
+"[{u'alias': u'breakfast_brunch', u'title': u'Breakfast & Brunch'}, {u'alias': u'cafes', u'title': u'Cafes'}, {u'alias': u'sandwiches', u'title': u'Sandwiches'}]",Washington,pineapple-and-pearls-washington-3,Pineapple & Pearls,$$$$,4.5,80
+"[{u'alias': u'cocktailbars', u'title': u'Cocktail Bars'}, {u'alias': u'chinese', u'title': u'Chinese'}]",Washington,copycat-co-washington-2,Copycat Co,$$,4.5,251
+"[{u'alias': u'laotian', u'title': u'Laotian'}]",Washington,thip-khao-washington,Thip Khao,$$,4.5,460
+"[{u'alias': u'vegan', u'title': u'Vegan'}, {u'alias': u'soulfood', u'title': u'Soul Food'}, {u'alias': u'breakfast_brunch', u'title': u'Breakfast & Brunch'}]",Washington,nuvegan-café-washington-2,NuVegan Café,$$,4.5,569
+"[{u'alias': u'brasseries', u'title': u'Brasseries'}, {u'alias': u'french', u'title': u'French'}, {u'alias': u'cafes', u'title': u'Cafes'}]",Washington,le-diplomate-washington,Le Diplomate,$$$,4.0,1741
+"[{u'alias': u'vietnamese', u'title': u'Vietnamese'}, {u'alias': u'foodtrucks', u'title': u'Food Trucks'}]",Washington,pho-junkies-washington,Pho Junkies,$$,4.5,115
+"[{u'alias': u'modern_european', u'title': u'Modern European'}]",Washington,ambar-washington,Ambar,$$,4.5,745

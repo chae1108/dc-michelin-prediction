@@ -1,0 +1,44 @@
+,categories,city,id,name,price,rating,review_count
+0,"[{u'alias': u'newamerican', u'title': u'American (New)'}, {u'alias': u'modern_european', u'title': u'Modern European'}]",Chicago,alinea-chicago,Alinea,$$$$,4.5,1543
+1,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,grace-chicago-3,Grace,$$$$,4.5,234
+2,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,42-grams-chicago,42 grams,$$$$,4.5,66
+3,"[{u'alias': u'newamerican', u'title': u'American (New)'}, {u'alias': u'seafood', u'title': u'Seafood'}, {u'alias': u'wine_bars', u'title': u'Wine Bars'}]",Chicago,acadia-chicago,Acadia,$$$$,4.0,334
+4,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,sixteen-chicago,Sixteen,$$$$,3.5,373
+5,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,blackbird-chicago,Blackbird,$$$,4.0,1198
+6,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,boka-chicago,Boka,$$$,4.0,931
+7,"[{u'alias': u'bars', u'title': u'Bars'}, {u'alias': u'newamerican', u'title': u'American (New)'}, {u'alias': u'breakfast_brunch', u'title': u'Breakfast & Brunch'}]",Chicago,duseks-board-and-beer-chicago-2,Dusek's Board & Beer,$$,4.0,598
+8,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,el-ideas-chicago-2,EL Ideas,$$$$,4.5,236
+9,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,elizabeth-restaurant-chicago,Elizabeth Restaurant,$$$$,4.5,124
+10,"[{u'alias': u'french', u'title': u'French'}, {u'alias': u'venues', u'title': u'Venues & Event Spaces'}]",Chicago,everest-chicago,Everest,$$$$,4.0,248
+11,"[{u'alias': u'newamerican', u'title': u'American (New)'}, {u'alias': u'wine_bars', u'title': u'Wine Bars'}]",Chicago,goosefoot-chicago,Goosefoot,$$$$,4.5,219
+12,"[{u'alias': u'hotels', u'title': u'Hotels'}, {u'alias': u'gastropubs', u'title': u'Gastropubs'}, {u'alias': u'whiskeybars', u'title': u'Whiskey Bars'}]",Chicago,longman-and-eagle-chicago,Longman & Eagle,$$,4.0,2016
+13,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,moto-chicago,Moto,$$$$,4.0,506
+14,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,naha-chicago,Naha,$$$$,3.5,612
+15,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,north-pond-chicago,North Pond,$$$$,4.0,433
+16,"[{u'alias': u'korean', u'title': u'Korean'}, {u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,parachute-chicago,Parachute,$$$,4.0,307
+17,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,schwa-chicago,Schwa,$$$$,4.0,452
+18,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Chicago,sepia-chicago,Sepia,$$$,4.0,888
+19,"[{u'alias': u'italian', u'title': u'Italian'}, {u'alias': u'wine_bars', u'title': u'Wine Bars'}]",Chicago,spiaggia-chicago-4,Spiaggia,$$$$,4.0,410
+20,"[{u'alias': u'mexican', u'title': u'Mexican'}]",Chicago,topolobampo-chicago,Topolobampo,$$$$,3.5,803
+21,"[{u'alias': u'newamerican', u'title': u'American (New)'}, {u'alias': u'french', u'title': u'French'}, {u'alias': u'champagne_bars', u'title': u'Champagne Bars'}]",Chicago,tru-chicago,Tru,$$$$,4.0,586
+22,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Brooklyn,chefs-table-at-brooklyn-fare-brooklyn-3,Chef's Table at Brooklyn Fare,$$$$,4.5,323
+23,"[{u'alias': u'newamerican', u'title': u'American (New)'}, {u'alias': u'french', u'title': u'French'}]",New York,eleven-madison-park-new-york,Eleven Madison Park,$$$$,4.5,1548
+24,"[{u'alias': u'french', u'title': u'French'}]",New York,jean-georges-new-york,Jean-Georges,$$$$,4.5,1489
+25,"[{u'alias': u'french', u'title': u'French'}, {u'alias': u'lounges', u'title': u'Lounges'}]",New York,le-bernardin-new-york,Le Bernardin,$$$$,4.5,1863
+26,"[{u'alias': u'sushi', u'title': u'Sushi Bars'}, {u'alias': u'japanese', u'title': u'Japanese'}]",New York,masa-new-york,Masa,$$$$,4.0,220
+27,"[{u'alias': u'french', u'title': u'French'}]",New York,per-se-new-york,Per Se,$$$$,4.5,1209
+28,"[{u'alias': u'scandinavian', u'title': u'Scandinavian'}]",New York,aquavit-new-york,Aquavit,$$$$,4.0,566
+29,"[{u'alias': u'tradamerican', u'title': u'American (Traditional)'}]",New York,atera-new-york,Atera,$$$$,4.5,163
+30,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",Brooklyn,blanca-brooklyn,Blanca,$$$$,4.0,119
+31,"[{u'alias': u'french', u'title': u'French'}, {u'alias': u'tradamerican', u'title': u'American (Traditional)'}, {u'alias': u'cocktailbars', u'title': u'Cocktail Bars'}]",New York,daniel-new-york-4,Daniel,$$$$,4.5,1238
+32,"[{u'alias': u'sushi', u'title': u'Sushi Bars'}]",New York,ichimura-at-brushstroke-new-york,Ichimura At Brushstroke,$$$$,4.5,122
+33,"[{u'alias': u'korean', u'title': u'Korean'}]",New York,jungsik-new-york,Jungsik,$$$$,4.5,326
+34,"[{u'alias': u'italian', u'title': u'Italian'}, {u'alias': u'seafood', u'title': u'Seafood'}]",New York,marea-new-york,Marea,$$$$,4.0,1391
+35,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",New York,momofuku-ko-new-york-3,Momofuku Ko,$$$$,4.5,132
+36,"[{u'alias': u'sushi', u'title': u'Sushi Bars'}, {u'alias': u'japanese', u'title': u'Japanese'}]",New York,soto-new-york,Soto,$$$$,3.5,356
+37,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",New York,the-modern-new-york-3,The Modern,$$$$,4.0,665
+38,"[{u'alias': u'italian', u'title': u'Italian'}, {u'alias': u'french', u'title': u'French'}, {u'alias': u'seafood', u'title': u'Seafood'}]",New York,ai-fiori-new-york,Ai Fiori,$$$$,4.0,847
+39,"[{u'alias': u'portuguese', u'title': u'Portuguese'}, {u'alias': u'spanish', u'title': u'Spanish'}, {u'alias': u'iberian', u'title': u'Iberian'}]",New York,aldea-new-york,Aldea,$$$,4.0,489
+40,"[{u'alias': u'spanish', u'title': u'Spanish'}, {u'alias': u'tapasmallplates', u'title': u'Tapas/Small Plates'}, {u'alias': u'musicvenues', u'title': u'Music Venues'}]",New York,andanada-new-york-3,Andanada,$$$,3.0,232
+41,"[{u'alias': u'newamerican', u'title': u'American (New)'}]",New York,aureole-new-york,Aureole,$$$$,4.0,646
+42,"[{u'alias': u'italian', u'title': u'Italian'}, {u'alias': u'bars', u'title': u'Bars'}]",New York,babbo-new-york,Babbo,$$$$,4.0,1983

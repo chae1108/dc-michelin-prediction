@@ -1,0 +1,149 @@
+categories,city,id,name,price,rating,review_count,zip_code
+newamerican,Chicago,alinea-chicago,Alinea,$$$$,4.5,1542,60614
+newamerican,Chicago,grace-chicago-3,Grace,$$$$,4.5,234,60661
+newamerican,Chicago,42-grams-chicago,42 grams,$$$$,4.5,66,60640
+newamerican,Chicago,acadia-chicago,Acadia,$$$$,4.0,334,60616
+newamerican,Chicago,sixteen-chicago,Sixteen,$$$$,3.5,373,60611
+newamerican,Chicago,blackbird-chicago,Blackbird,$$$,4.0,1200,60661
+newamerican,Chicago,boka-chicago,Boka,$$$,4.0,931,60614
+bars,Chicago,duseks-board-and-beer-chicago-2,Dusek's Board & Beer,$$,4.0,599,60608
+newamerican,Chicago,el-ideas-chicago-2,EL Ideas,$$$$,4.5,236,60608
+newamerican,Chicago,elizabeth-restaurant-chicago,Elizabeth Restaurant,$$$$,4.5,124,60625
+french,Chicago,everest-chicago,Everest,$$$$,4.0,248,60605
+newamerican,Chicago,goosefoot-chicago,Goosefoot,$$$$,4.5,219,60625
+hotels,Chicago,longman-and-eagle-chicago,Longman & Eagle,$$,4.0,2017,60647
+newamerican,Chicago,moto-chicago,Moto,$$$$,4.0,506,60607
+newamerican,Chicago,naha-chicago,Naha,$$$$,3.5,613,60654
+newamerican,Chicago,north-pond-chicago,North Pond,$$$$,4.0,436,60614
+korean,Chicago,parachute-chicago,Parachute,$$$,4.0,307,60618
+newamerican,Chicago,schwa-chicago,Schwa,$$$$,4.0,452,60622
+newamerican,Chicago,sepia-chicago,Sepia,$$$,4.0,888,60661
+italian,Chicago,spiaggia-chicago-4,Spiaggia,$$$$,4.0,410,60611
+mexican,Chicago,topolobampo-chicago,Topolobampo,$$$$,3.5,804,60654
+newamerican,Chicago,tru-chicago,Tru,$$$$,4.0,586,60611
+newamerican,Brooklyn,chefs-table-at-brooklyn-fare-brooklyn-3,Chef's Table at Brooklyn Fare,$$$$,4.5,326,11201
+newamerican,New York,eleven-madison-park-new-york,Eleven Madison Park,$$$$,4.5,1553,10010
+french,New York,jean-georges-new-york,Jean-Georges,$$$$,4.5,1494,10023
+french,New York,le-bernardin-new-york,Le Bernardin,$$$$,4.5,1865,10019
+sushi,New York,masa-new-york,Masa,$$$$,4.0,220,10019
+french,New York,per-se-new-york,Per Se,$$$$,4.5,1215,10019
+scandinavian,New York,aquavit-new-york,Aquavit,$$$$,4.0,568,10022
+tradamerican,New York,atera-new-york,Atera,$$$$,4.5,164,10013
+newamerican,Brooklyn,blanca-brooklyn,Blanca,$$$$,4.0,119,11206
+french,New York,daniel-new-york-4,Daniel,$$$$,4.5,1239,10065
+sushi,New York,ichimura-at-brushstroke-new-york,Ichimura At Brushstroke,$$$$,4.5,122,10013
+korean,New York,jungsik-new-york,Jungsik,$$$$,4.5,326,10013
+italian,New York,marea-new-york,Marea,$$$$,4.0,1394,10019
+newamerican,New York,momofuku-ko-new-york-3,Momofuku Ko,$$$$,4.5,133,10003
+sushi,New York,soto-new-york,Soto,$$$$,3.5,355,10014
+newamerican,New York,the-modern-new-york-3,The Modern,$$$$,4.0,666,10019
+italian,New York,ai-fiori-new-york,Ai Fiori,$$$$,4.0,848,10018
+portuguese,New York,aldea-new-york,Aldea,$$$,4.0,488,10011
+spanish,New York,andanada-new-york-3,Andanada,$$$,3.0,233,10023
+newamerican,New York,aureole-new-york,Aureole,$$$$,4.0,649,10036
+italian,New York,babbo-new-york,Babbo,$$$$,4.0,1986,10011
+modern_european,New York,bâtard-new-york,Bâtard,$$$$,4.0,172,10013
+newamerican,New York,betony-new-york,Betony,$$$$,4.0,340,10019
+newamerican,New York,blue-hill-new-york,Blue Hill,$$$$,4.5,767,10011
+french,New York,bouley-new-york-2,Bouley,$$$$,4.5,1040,10013
+japanese,New York,brushstroke-new-york,Brushstroke,$$$$,4.0,291,10013
+french,New York,cafe-boulud-new-york-4,Cafe Boulud,$$$$,4.0,512,10021
+szechuan,New York,café-china-new-york-2,Café China,$$,3.5,655,10016
+japanese,New York,cagen-japan-restaurant-new-york-2,Cagen Japan Restaurant,$$$$,4.5,110,10009
+italian,New York,carbone-new-york,Carbone,$$$$,4.0,447,10012
+mexican,Long Island City,casa-enrique-long-island-city,Casa Enrique,$$,4.0,603,11101
+spanish,New York,casa-mono-new-york,Casa Mono,$$$,3.5,1027,10003
+newamerican,New York,caviar-russe-new-york,Caviar Russe,$$$$,4.0,84,10022
+italian,New York,del-posto-new-york,Del Posto,$$$$,4.0,1122,10011
+tradamerican,Brooklyn,delaware-and-hudson-brooklyn,Delaware and Hudson,$$,4.0,178,11211
+newamerican,New York,dovetail-new-york,Dovetail,$$$$,4.0,632,10024
+bars,New York,gabriel-kreuther-new-york,Gabriel Kreuther,$$$$,4.5,134,10036
+newamerican,New York,gotham-bar-and-grill-new-york,Gotham Bar and Grill,$$$$,4.5,1263,10003
+newamerican,New York,gramercy-tavern-new-york,Gramercy Tavern,$$$$,4.5,2105,10003
+japanese,New York,hirohisa-new-york,Hirohisa,$$$$,4.5,74,10012
+sushi,New York,jewel-bako-new-york,Jewel Bako,$$$$,4.0,427,10003
+newamerican,New York,juni-new-york,Juni,$$$$,4.5,133,10016
+indpak,New York,junoon-new-york,Junoon,$$$,3.5,957,10010
+japanese,New York,kajitsu-new-york-3,Kajitsu,$$$$,4.0,131,10016
+japanese,New York,kyo-ya-new-york,Kyo Ya,$$$$,4.5,376,10009
+spanish,Brooklyn,la-vara-brooklyn,La Vara,$$$,4.0,256,11201
+scandinavian,Brooklyn,luksus-brooklyn,Luksus,$$$$,4.0,72,11222
+steak,Long Island City,m-wells-steakhouse-long-island-city,M. Wells Steakhouse,$$$,3.5,279,11101
+tradamerican,Williamsburg,meadowsweet-williamsburg,Meadowsweet,$$$,4.0,190,11211
+french,New York,minetta-tavern-new-york,Minetta Tavern,$$$,4.0,1719,10012
+french,New York,the-nomad-restaurant-new-york,The NoMad Restaurant,$$$$,4.0,946,10001
+steak,Brooklyn,peter-luger-steak-house-brooklyn,Peter Luger Steak House,$$$$,4.0,3700,11211
+french,New York,picholine-new-york,Picholine,$$$$,4.0,224,10023
+newamerican,New York,piora-new-york,Piora,$$$$,4.5,223,10014
+thai,Brooklyn,pok-pok-ny-brooklyn-3,Pok Pok NY,$$,3.5,388,11231
+tradamerican,New York,public-new-york,Public,$$$,4.0,992,10012
+french,New York,rebelle-new-york,Rebelle,$$$,4.0,120,10012
+japanese,New York,rosanjin-new-york,Rosanjin,$$$$,4.5,75,10013
+tradamerican,Williamsburg,semilla-williamsburg-2,Semilla,$$$$,4.0,85,11211
+thai,New York,somtum-der-new-york,Somtum Der,$$,4.0,407,10009
+burgers,New York,the-spotted-pig-new-york,The Spotted Pig,$$$,3.5,2524,10014
+sushi,New York,sushi-azabu-new-york,Sushi Azabu,$$$$,4.0,352,10013
+sushi,New York,sushi-of-gari-new-york,Sushi of Gari,$$$$,4.0,496,10075
+japanese,New York,sushi-yasuda-new-york,Sushi Yasuda,$$$$,4.0,1754,10017
+newamerican,Brooklyn,take-root-brooklyn-3,Take Root,$$$$,4.5,31,11231
+newamerican,New York,telepan-new-york,Telepan,$$$,4.0,526,10023
+japanese,New York,tempura-matsui-new-york,Tempura Matsui,$$$$,4.5,36,10016
+pubs,New York,the-breslin-bar-and-dining-room-new-york,The Breslin Bar & Dining Room,$$$,3.5,1309,10001
+newamerican,Clinton Hill,the-finch-clinton-hill,The Finch,$$$,4.0,100,11238
+newamerican,New York,the-musket-room-new-york,The Musket Room,$$$,4.5,247,10012
+newamerican,Brooklyn,the-river-café-brooklyn-3,The River Café,$$$$,4.0,722,11201
+japanese,New York,torishin-new-york-3,Torishin,$$$$,4.0,87,10019
+indpak,New York,tulsi-new-york,Tulsi,$$$,3.5,265,10017
+thai,New York,uncle-boons-new-york-2,Uncle Boons,$$$,4.0,378,10012
+german,New York,wallsé-new-york-2,Wallsé,$$$,4.0,195,10014
+seafood,New York,zzs-clam-bar-new-york,ZZ's Clam Bar,$$$$,4.5,71,10012
+newamerican,San Francisco,benu-san-francisco-4,Benu,$$$$,4.5,783,94105
+french,Yountville,the-french-laundry-yountville-2,The French Laundry,$$$$,4.5,2076,94599
+newamerican,Los Gatos,manresa-los-gatos-2,Manresa,$$$$,4.0,969,95030
+newamerican,St. Helena,the-restaurant-at-meadowood-st-helena,The Restaurant At Meadowood,$$$$,4.0,395,94574
+newamerican,San Francisco,saison-san-francisco-2,Saison,$$$$,4.5,296,94107
+italian,San Francisco,acquerello-san-francisco,Acquerello,$$$$,4.5,889,94109
+french,San Francisco,atelier-crenn-san-francisco,Atelier Crenn,$$$$,4.5,539,94123
+french,Palo Alto,baumé-palo-alto-5,Baumé,$$$$,4.0,306,94306
+newamerican,San Francisco,campton-place-restaurant-san-francisco,Campton Place Restaurant,$$$$,4.0,613,94108
+newamerican,San Francisco,coi-san-francisco,Coi,$$$$,4.0,683,94133
+newamerican,Oakland,commis-oakland-2,Commis,$$$$,4.5,786,94611
+french,San Francisco,quince-san-francisco,Quince,$$$$,4.0,1228,94133
+newamerican,San Francisco,all-spice-san-francisco,All Spice,$$$,4.0,54,94108
+seafood,San Francisco,als-place-san-francisco,AL's Place,$$$,4.0,344,94110
+newamerican,San Francisco,ame-san-francisco,Ame,$$$$,4.0,893,94105
+newamerican,San Francisco,aster-san-francisco,Aster,$$$,4.0,175,94110
+newamerican,Rutherford,auberge-du-soleil-restaurant-rutherford,Auberge du Soleil Restaurant,$$$$,4.5,472,94573
+moroccan,San Francisco,aziza-san-francisco,Aziza,$$$,4.0,1959,94121
+french,Yountville,bouchon-yountville,Bouchon,$$$,4.0,2376,94599
+mexican,San Francisco,californios-san-francisco,Californios,$$$$,4.5,155,94110
+french,Mountain View,chez-tj-mountain-view,Chez TJ,$$$$,3.5,560,94041
+newamerican,San Francisco,commonwealth-san-francisco,Commonwealth,$$$,4.0,882,94110
+newamerican,Forestville,farmhouse-inn-restaurant-forestville-2,Farmhouse Inn Restaurant,$$$$,4.5,225,95436
+newamerican,San Francisco,gary-danko-san-francisco,Gary Danko,$$$$,4.5,4610,94109
+french,San Francisco,keiko-à-nob-hill-san-francisco-2,Keiko à Nob Hill,$$$$,4.5,312,94109
+thai,San Francisco,kin-khao-san-francisco-2,Kin Khao,$$,4.0,822,94102
+sushi,San Francisco,kusakabe-san-francisco,KUSAKABE,$$$$,4.5,488,94111
+newamerican,Napa,la-toque-napa,La Toque,$$$$,4.0,432,94559
+newamerican,San Francisco,lazy-bear-san-francisco-5,Lazy Bear,$$$$,4.5,314,94110
+modern_european,San Francisco,lord-stanley-san-francisco,Lord Stanley,$$$,4.0,111,94109
+newamerican,San Francisco,luce-san-francisco,Luce,$$$,3.5,605,94103
+hotels,Healdsburg,madrona-manor-healdsburg-2,Madrona Manor,$$$$,4.0,205,95448
+newamerican,San Francisco,michael-mina-san-francisco-2,Michael Mina,$$$$,4.0,955,94111
+moroccan,San Francisco,mourad-restaurant-san-francisco,Mourad Restaurant,$$$,4.0,412,94105
+newamerican,San Francisco,nico-san-francisco,Nico,$$$,4.0,186,94115
+newamerican,San Francisco,octavia-san-francisco,Octavia,$$$,4.0,241,94109
+sushi,San Francisco,omakase-san-francisco,Omakase,$$$$,4.5,161,94103
+french,Saratoga,plumed-horse-saratoga,Plumed Horse,$$$$,4.0,890,95070
+indpak,Burlingame,rasa-burlingame,Rasa,$$,4.0,380,94010
+newamerican,Calistoga,solbar-calistoga,SolBar,$$$,4.0,778,94515
+newamerican,San Francisco,sons-and-daughters-san-francisco,Sons & Daughters,$$$$,4.0,544,94108
+italian,San Francisco,spqr-san-francisco,SPQR,$$$,3.5,1705,94115
+tradamerican,San Francisco,spruce-san-francisco,Spruce,$$$$,4.0,1593,94118
+tapasmallplates,San Francisco,state-bird-provisions-san-francisco,State Bird Provisions,$$$,4.5,1934,94115
+sushi,San Mateo,sushi-yoshizumi-san-mateo,Sushi Yoshizumi,$$$$,4.5,113,94401
+newamerican,Saint Helena,terra-saint-helena-2,Terra,$$$$,4.0,212,94574
+newamerican,Bodega Bay,terrapin-creek-cafe-and-restaurant-bodega-bay,Terrapin Creek Cafe & Restaurant,$$$,4.5,382,94923
+tradamerican,Woodside,the-village-pub-woodside,The Village Pub,$$$,4.0,797,94062
+japanese,San Francisco,wako-japanese-restaurant-san-francisco,Wako Japanese Restaurant,$$$$,4.5,288,94118
+japanese,San Mateo,wakuriya-san-mateo,Wakuriya,$$$$,4.5,403,94402
